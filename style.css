@@ -1,0 +1,11 @@
+* {
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+a {
+  margin-right: 15px;
+  text-decoration: none;
+}
